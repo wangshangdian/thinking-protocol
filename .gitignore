@@ -1,0 +1,13 @@
+# 凭据与隐私：默认不入库（见 references/07 §4）
+.env
+.env.*
+*secret*
+*token*
+*credential*
+*.pem
+*.key
+id_rsa*
+__pycache__/
+*.py[cod]
+.venv/
+venv/

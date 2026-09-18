@@ -1,0 +1,4 @@
+# 跨机一致：把行尾统一成 LF，避免 CRLF 噪音淹没真实 diff
+* text=auto eol=lf
+*.png binary
+*.jpg binary
